@@ -1,2 +1,1 @@
-master
-CCCC
+branch2
